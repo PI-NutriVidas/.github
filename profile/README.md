@@ -1,3 +1,5 @@
+![caze](https://github.com/PI-NutriVidas/.github/assets/44206400/97813ae4-6a4c-4a32-a69b-7c5509ac82a4)
+
 ## Vida Saudável e Equilíbrio
 Bem-vindo(a) ao repositório da NutriVidas no GitHub! Aqui, você encontrará informações sobre nossa missão de promover um estilo de vida saudável e equilibrado através da exploração de produtos naturais e da conexão com a beleza da natureza.
 
